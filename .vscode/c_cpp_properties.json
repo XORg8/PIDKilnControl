@@ -1,0 +1,42 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/seanchoq/src/arduino/PlatformIO/PIDKilnControl-uno/include",
+                "C:/Users/seanchoq/src/arduino/PlatformIO/PIDKilnControl-uno/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/seanchoq/src/arduino/PlatformIO/PIDKilnControl-uno/include",
+                    "C:/Users/seanchoq/src/arduino/PlatformIO/PIDKilnControl-uno/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=16000000L",
+                "PLATFORMIO=60107",
+                "ARDUINO_AVR_UNO",
+                "VERSION=1.0.0",
+                "DEBUG=1",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/seanchoq/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

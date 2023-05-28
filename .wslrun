@@ -1,0 +1,10 @@
+export WSENDPOINT=""
+export WSPASS=""
+export WSUSER=""
+##### history ends #####
+export WSENDPOINT=""
+export WSUSER=""
+export WSPASS=""
+export WSENDPOINT="172.24.42.180"
+export WSUSER="seanchoq"
+export WSPASS="asdf;lkj"
